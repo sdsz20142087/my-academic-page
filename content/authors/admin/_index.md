@@ -72,10 +72,10 @@ highlight_name: false
 
 I am a graduate student of Data Analytics and Statistics at Washington University in St. Louis. My research focuses on data mining, natural language processing and machine learning. Now I am conducting research related to graph neural network.
 
-I published my academic paper BELT: A Pipeline for Stock Price Prediction Using News (IEEE Big Data 2020, regular paper) in my junior year.
+I published my academic paper BELT: A Pipeline for Stock Price Prediction Using News (IEEE Big Data 2020, regular paper) in my junior year.  
 In my senior year, I interned at KuaiShou Technology Co. as a data analyst and TianXueWang Co. as a natural language processing algorithm engineer.
 
-My motto: Death is more universal than life; everyone dies but not everyone lives.
+My motto: Death is more universal than life; everyone dies but not everyone lives.  
 Three as most important in being a successful student: (1) self-motivation, (2) perseverance, and (3) focus.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
