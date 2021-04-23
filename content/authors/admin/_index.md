@@ -48,7 +48,7 @@ social:
   link: https://twitter.com/dongyingzhe
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=en&user=Tks14CYAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/sdsz20142087
