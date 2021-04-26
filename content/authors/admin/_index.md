@@ -78,4 +78,4 @@ In my senior year, I interned at KuaiShou Technology Co. as a data analyst and T
 My motto: Death is more universal than life; everyone dies but not everyone lives.
 Three as most important in being a successful student: (1) self-motivation, (2) perseverance, and (3) focus.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/Resume-Yingzhe-Dong.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "Resume-Yingzhe-Dong.pdf" "newtab" >}}resumé{{< /staticref >}}.
