@@ -88,10 +88,10 @@ def w_successor(A, B):# list all possible operation about the next step
     def _successor(state):
         a, b = state
         return {
-            (0, b): '清空a',
-            (a, 0): '清空b',
-            (A, b): '灌满a',
-            (a, B): '灌满b',
+            (0, b): 'empty a',
+            (a, 0): 'empty b',
+            (A, b): 'fill a',
+            (a, B): 'fill b',
             (0, a + b) if a + b <= B else (a + b - B, B): 'a => b',
             (a + b, 0) if a + b <= A else (A, a + b - A): 'b => a'
         }
@@ -105,6 +105,6 @@ def reach_capacity(goal):
 solutions = search(start=(0, 0), goal_f=reach_capacity(60),
                        successor_f=w_successor(90, 40), sort_f=lambda p: len(p))
 print(solutions)
-# output: [(0, 0), '灌满a', (90, 0), 'a => b', (50, 40), '清空b', (50, 0), 'a => b', (10, 40), 
-# '清空b', (10, 0), 'a => b', (0, 10), '灌满a', (90, 10), 'a => b', (60, 40)]
+# output: [(0, 0), 'fill a', (90, 0), 'a => b', (50, 40), 'empty b', (50, 0), 'a => b', (10, 40), 
+#'empty b', (10, 0), 'a => b', (0, 10), 'fill a', (90, 10), 'a => b', (60, 40)]
 ```
