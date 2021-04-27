@@ -9,14 +9,10 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-
-
 Two questions
 
 1. How to find the shortest paths when we want to find the target thing, based on item correspondence？
 2. Give you two glasses of water without scale, and only know the capacity, we also have infinite water to use, please give us a solution that can get our target water in the glass, e.g. we hope to get 20 water after some operation, and the capacity of the two glasses of water are 90 and 40, please print the process of our operation.
-
-
 
 ```python
 """import package and define a function for public use"""
@@ -84,4 +80,31 @@ print(bimapping)
 result = search(start='book', goal_f=path_goal('class'), successor_f=path_successor(bimapping), sort_f=lambda a: len(a))
 print(result)
 # output: ['book', '=>', 'bathroom', '=>', 'car', '=>', 'class']
+```
+
+```python
+"""Second question and solution"""
+def w_successor(A, B):# list all possible operation about the next step
+    def _successor(state):
+        a, b = state
+        return {
+            (0, b): '清空a',
+            (a, 0): '清空b',
+            (A, b): '灌满a',
+            (a, B): '灌满b',
+            (0, a + b) if a + b <= B else (a + b - B, B): 'a => b',
+            (a + b, 0) if a + b <= A else (A, a + b - A): 'b => a'
+        }
+    return _successor
+
+def reach_capacity(goal):
+    def _wrap(path):
+        return goal in path[-1]
+    return _wrap
+
+solutions = search(start=(0, 0), goal_f=reach_capacity(60),
+                       successor_f=w_successor(90, 40), sort_f=lambda p: len(p))
+print(solutions)
+# output: [(0, 0), '灌满a', (90, 0), 'a => b', (50, 40), '清空b', (50, 0), 'a => b', (10, 40), 
+# '清空b', (10, 0), 'a => b', (0, 10), '灌满a', (90, 10), 'a => b', (60, 40)]
 ```
