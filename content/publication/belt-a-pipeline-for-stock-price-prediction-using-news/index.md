@@ -24,7 +24,7 @@ abstract: >-
   Index Terms—stock, news, prediction, BERT, LSTM
 draft: false
 featured: true
-slides: belt-a-pipeline-for-stock-price-prediction-using-news/BELT_paper.pptx
+slides: belt-a-pipeline-for-stock-price-prediction-using-news
 image:
   filename: featured.jpg
   focal_point: Smart
