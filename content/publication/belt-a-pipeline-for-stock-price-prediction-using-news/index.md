@@ -24,7 +24,7 @@ abstract: >-
   Index Terms—stock, news, prediction, BERT, LSTM
 draft: false
 featured: true
-slides: CONTENT/SLIDES/BELT_paper.pptx
+slides: BELT_paper.pptx
 image:
   filename: featured.jpg
   focal_point: Smart
