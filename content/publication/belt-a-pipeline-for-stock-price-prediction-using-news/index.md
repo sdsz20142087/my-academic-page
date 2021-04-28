@@ -26,7 +26,7 @@ draft: false
 featured: true
 slides: belt-a-pipeline-for-stock-price-prediction-using-news
 image:
-  filename: featured.jpg
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2021-04-28T02:04:34.675Z
