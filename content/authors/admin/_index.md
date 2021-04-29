@@ -1,7 +1,7 @@
 ---
 title: Yingzhe Dong
 role: Graduate Student of Data Analytics and Statistics
-avatar_filename: admin.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include natural language processing, machine learning
   & data mining and artificial intelligence.
 interests:
