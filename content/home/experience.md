@@ -36,14 +36,20 @@ experience:
         * Analyzed some cases with large deviations in current speaking scores and conduct bad case analysis
         * Implementation of some engineering processing, such as the production of net modules and pre-processing of language model
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Data Analyst
+    company: Kuaishou
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Beijing
+    date_start: '2020-11-05'
+    date_end: '2021-02-05'
+    description: |2-
+        Responsibilities include:
+        
+        * Set up the department data center from 0 to 1, undertook the initial work of data development, met the data requirements of the department: utilizing SQL to retrieve data from Hive and completing over 1,500 SQL queries, wrote the SQL template, and created the corresponding visual Kanban to support the unified and efficient data queries and statistics, and standardized data caliber
+        * Provided the strategies support for recommending high-quality works to the operation side, and developed appropriate public release strategy based on the characteristics of the published works of different secondary vertical classes
+        * Calculated resource allocation for different queues and periods around the internal resource pool of the department, optimized the code and configured a fitted engine
+        * Conducted the quantitative analysis (Gini-Simpson index and Shannon-Wiener index) for the ecological diversity of the primary vertical classes to prevent the recommendation system from being good at working out an optimal local solution that resulted in the ‘Matthew effect’ of distribution
 
 design:
   columns: '2'
