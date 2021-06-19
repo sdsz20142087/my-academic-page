@@ -39,7 +39,7 @@ experience:
   - title: Data Analyst
     company: Kuaishou
     company_url: ''
-    company_logo: org-x
+    company_logo: org-p
     location: Beijing
     date_start: '2020-11-05'
     date_end: '2021-02-05'
