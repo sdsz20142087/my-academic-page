@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Internship
 subtitle:
 
 # Date format for experience
@@ -22,19 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Engineer
-    company: GenCoin
+  - title: NLP Algorithm Engineer
+    company: Tian Xue Wang
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    location: Beijing
+    date_start: '2021-03-25'
+    date_end: '2021-05-25'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Read articles about Semantic Textual Similarity, summarize the algorithms that are accurate and easy to engineer (e.g. Sentence-BERT), and implement them for oral scoring
+        * Analyzed some cases with large deviations in current speaking scores and conduct bad case analysis
+        * Implementation of some engineering processing, such as the production of net modules and pre-processing of language model
         
   - title: Professor of Semiconductor Physics
     company: University X
