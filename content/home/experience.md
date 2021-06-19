@@ -25,7 +25,7 @@ experience:
   - title: NLP Algorithm Engineer
     company: Tian Xue Wang
     company_url: ''
-    company_logo: org-gc
+    company_logo: org-q
     location: Beijing
     date_start: '2021-03-25'
     date_end: '2021-05-25'
