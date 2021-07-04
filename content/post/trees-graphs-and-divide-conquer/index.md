@@ -12,7 +12,7 @@ image:
 Two questions
 
 1. How to find the shortest paths when we want to find the target thing, based on item correspondence？
-2. Give you two glasses of water without scale, and only know the capacity, we also have infinite water to use, please give us a solution that can get our target water in the glass, e.g. we hope to get 20 water after some operation, and the capacity of the two glasses of water are 90 and 40, please print the process of our operation.
+2. Give you two glasses of water without scale, and only know the capacity, we also have infinite water to use, please give us a solution that can get our target water in the glass, for example, we hope to get 20 water after some operation, and the capacity of the two glasses of water are 90 and 40, please print the process of our operation.
 
 ```python
 """import package and define a function for public use"""
