@@ -9,7 +9,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-First of all, a prime number has the property that it is only divisible by 1 and itself. Our goal is to filter out the prime numbers in the given range, e.g. if the range is 1-10, the answer is 2,  3, 5, 7.
+First of all, a prime number has the property that it is only divisible by 1 and itself. Our goal is to filter out the prime numbers in the given range, for example, if the range is 1-10, the answer is 2,  3, 5, 7.
 
 First algorithm: Time Complexity O(n * loglogn)
 
