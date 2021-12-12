@@ -28,8 +28,8 @@ social:
     icon_pack: ai
     link: media/Resume.pdf
 organizations:
-  - name: Washington University in St. Louis
-    url: https://wustl.edu/
+  - name: Northeastern University
+    url: http://www.neu.edu.cn/
 education:
   courses:
     - course: BSc in Fintech
