@@ -82,6 +82,8 @@ int main() {
 
 * Dynamic memory allocation within the operating system
 
+  ![](screen-shot-2022-01-12-at-5.54.19-pm.png)
+
   ![](screen-shot-2022-01-12-at-5.55.04-pm.png)
 * LRU cache algorithm
 
