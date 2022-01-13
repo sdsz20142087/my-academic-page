@@ -6,7 +6,7 @@ weight: 60
 title: Recent Posts
 active: false
 design:
-  columns: "2"
+  columns: ""
   background:
     text_color_light: false
     image_darken: 0
