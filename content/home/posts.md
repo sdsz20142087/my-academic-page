@@ -18,8 +18,6 @@ content:
   page_type: post
   # Filter on criteria
   filters:
-    folders:
-      - post
     tag: ''
     category: ''
     publication_type: ''
