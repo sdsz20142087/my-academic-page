@@ -1,6 +1,6 @@
 ---
 title: Posts
-cms_exclude: true
+
 type: "widget_page"
 
 # View.
