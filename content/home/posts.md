@@ -5,6 +5,7 @@ widget: pages
 
 # This file represents a page section.
 headless: true
+active: true
 
 # Order that this section appears on the page.
 weight: 60
@@ -13,6 +14,8 @@ title: Recent Posts
 subtitle:
 
 content:
+  # Page type to display. E.g. post, talk, publication...
+  page_type: post
   # Filter on criteria
   filters:
     folders:
