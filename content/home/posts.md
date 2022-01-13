@@ -4,7 +4,7 @@ widget_id: Posts
 headless: true
 weight: 60
 title: Recent Posts
-active: true
+active: false
 design:
   columns: "2"
   background:
