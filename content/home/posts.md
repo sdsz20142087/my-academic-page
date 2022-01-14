@@ -23,5 +23,5 @@ design:
   view: compact
   columns: "2"
   background:
-    color: "#8c0ed9"
+    color: ""
 ---
