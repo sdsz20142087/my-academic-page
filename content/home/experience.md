@@ -32,9 +32,10 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Read articles about Semantic Textual Similarity, summarize the algorithms that are accurate and easy to engineer (e.g. Sentence-BERT), and implement them for oral scoring
-        * Analyzed some cases with large deviations in current speaking scores and conduct bad case analysis
-        * Implementation of some engineering processing, such as the production of net modules and pre-processing of language model
+        * Implemented and upgraded the algorithms to an automatic scoring system for spoken English, which is integrated into the app, covering both PC and mobile.
+        * Scored Q&A questions using a machine learning model solution to construct text similarity features between the student's recognition text and multiple reference answers, and then put them into the LGB model together with speech features to conduct regression, boosting accuracy from 75% to 85%.
+        * Implemented features and models based on over 30,000 data according to region using Python, and deployed them into the Polly engine using C++.
+        * Built a back-end service with Python and Flask for the mock exam, serving over 200,000 users.
         
   - title: Data Analyst
     company: Kuaishou
@@ -46,10 +47,11 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Set up the department data center from 0 to 1, undertook the initial work of data development, met the data requirements of the department: utilizing SQL to retrieve data from Hive and completing over 1,500 SQL queries, wrote the SQL template, and created the corresponding visual Kanban to support the unified and efficient data queries and statistics, and standardized data caliber
-        * Provided the strategies support for recommending high-quality works to the operation side, and developed appropriate public release strategy based on the characteristics of the published works of different secondary vertical classes
-        * Calculated resource allocation for different queues and periods around the internal resource pool of the department, optimized the code and configured a fitted engine
-        * Conducted the quantitative analysis (Gini-Simpson index and Shannon-Wiener index) for the ecological diversity of the primary vertical classes to prevent the recommendation system from being good at working out an optimal local solution that resulted in the ‘Matthew effect’ of distribution
+        * Set up the department data center from 0 to 1, drove and led data reform and innovation to better meet the internal data needs of the department while applying analytical capabilities to guide the business.
+        * Undertook the initial work of data development and met the data requirements of the department: utilized SQL to retrieve data from Hive and completed over 1,500 SQL queries, wrote the SQL template, and created the corresponding visual Kanban to support the unified and efficient data queries and statistics, and standardized data caliber.
+        * Provided the strategies support for recommending high-quality works to the operation side, and developed an appropriate public release strategy based on the characteristics of the published works of different secondary vertical classes.
+        * Calculated resource allocation for different queues and periods around the internal resource pool of the department, optimized the code and configured a fitted engine.
+        * Conducted the quantitative analysis (Gini-Simpson index and Shannon-Wiener index) for the ecological diversity of the primary vertical classes to prevent the recommendation system from being good at working out an optimal local solution that resulted in the ‘Matthew effect’ of distribution.
 
 design:
   columns: '2'
