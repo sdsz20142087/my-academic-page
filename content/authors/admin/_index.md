@@ -26,7 +26,7 @@ social:
     link: https://www.linkedin.com/in/yingzhe-dong-9347b51b7/
   - icon: cv
     icon_pack: ai
-    link: media/Resume.pdf
+    link: uploads/Resume--Yingzhe.pdf
 organizations:
   - name: Northeastern University
     url: http://www.neu.edu.cn/
