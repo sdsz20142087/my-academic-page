@@ -31,7 +31,7 @@ experience:
         * Provided the strategies support for recommending high-quality works to the operation side, and developed an appropriate public release strategy based on the characteristics of the published works of different secondary vertical classes.
         * Calculated resource allocation for different queues and periods around the internal resource pool of the department, optimized the code and configured a fitted engine.
         * Conducted the quantitative analysis (Gini-Simpson index and Shannon-Wiener index) for the ecological diversity of the primary vertical classes to prevent the recommendation system from being good at working out an optimal local solution that resulted in the ‘Matthew effect’ of distribution.
-widget_id: R
+widget_id: a
 headless: true
 weight: 40
 title: Internship
@@ -39,5 +39,5 @@ subtitle: null
 design:
   columns: "2"
   background:
-    color: "#df11ba"
+    color: ""
 ---
