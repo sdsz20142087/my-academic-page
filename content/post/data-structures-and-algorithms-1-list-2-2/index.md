@@ -2,7 +2,7 @@
 title: Data Structures and Algorithms 1. List (2/2)
 date: 2022-01-14T09:46:53.998Z
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
