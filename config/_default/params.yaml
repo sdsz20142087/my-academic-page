@@ -61,7 +61,7 @@ main_menu:
   enable: true
   align: l
   show_logo: true
-  show_language: false
+  show_language: true
   show_day_night: true
   show_search: true
   highlight_active_link: true
@@ -77,6 +77,8 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - python
+  - c
+  - cpp
 math: false
 diagram: false
 privacy_pack: false
