@@ -2,7 +2,7 @@
 widget: pages
 widget_id: b
 headless: true
-weight: 60
+weight: 120
 title: Posts
 subtitle: null
 active: true
@@ -16,7 +16,7 @@ content:
     exclude_featured: false
     exclude_future: false
     exclude_past: false
-  count: 8
+  count: 3
   offset: 0
   order: desc
 design:
