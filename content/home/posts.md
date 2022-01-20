@@ -5,7 +5,7 @@ headless: true
 weight: 60
 title: Posts
 subtitle: null
-active: false
+active: true
 content:
   page_type: post
   filters:
