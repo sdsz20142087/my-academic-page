@@ -12,7 +12,7 @@ experience:
     description: >-2
         Responsibilities include:
         
-        * upgraded the algorithms to an automatic scoring system for spoken English, which is integrated into the app, covering both PC and mobile.
+        * Implemented and upgraded the algorithms to an automatic scoring system for spoken English, which is integrated into the app, covering both PC and mobile.
         * Scored Q&A questions using a machine learning model solution to construct text similarity features between the student's recognition text and multiple reference answers, and then put them into the LGB model together with speech features to conduct regression, boosting accuracy from 75% to 85%.
         * Implemented features and models based on over 30,000 data according to region using Python, and deployed them into the Polly engine using C++.
         * Built a back-end service with Python and Flask for the mock exam, serving over 200,000 users.
