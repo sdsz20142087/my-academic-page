@@ -12,5 +12,5 @@ view: 3
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: "About Computer Science"
-  image: "test.jpg"
+  image: "static/media/test.jpg"
 ---
