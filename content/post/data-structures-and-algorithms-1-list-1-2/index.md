@@ -1,5 +1,5 @@
 ---
-title: Data Structures and Algorithms 1. List (1/2)
+title: Data Structures and Algorithms 1-1. List (1/2)
 date: 2022-01-12T10:44:40.515Z
 draft: false
 featured: false
