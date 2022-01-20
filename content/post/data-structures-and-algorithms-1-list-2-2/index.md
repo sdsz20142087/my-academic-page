@@ -2,7 +2,7 @@
 title: Data Structures and Algorithms 1. List (2/2)
 date: 2022-01-14T09:46:53.998Z
 draft: false
-featured: true
+featured: false
 image:
   filename: featured
   focal_point: Smart
@@ -10,7 +10,7 @@ image:
 ---
 # List
 
-***Leetcode- 141, 142, 202, 206, 92, 25, 61, 19, 83, 82***
+***Leetcode- 141, 142, 202, 206, 92, 25, 61, 19, 83, 82, 86, 138***
 
 **Problem solving tips**
 
@@ -380,6 +380,92 @@ public:
             }
         }
         return ret.next;
+    }
+};
+```
+
+86
+
+```cpp
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
+class Solution {
+public:
+    ListNode* partition(ListNode* head, int x) {
+        ListNode ret1(0), ret2(0);
+        ListNode* p1 = &ret1, *p2 = &ret2, *cur = head;
+        while (cur) {
+            if (cur->val < x) {
+                p1->next = cur;
+                p1 = p1->next;
+            } else {
+                p2->next = cur;
+                p2 = p2->next;
+            }
+            cur = cur->next;
+        }
+        p1->next = ret2.next;
+        p2->next = nullptr;
+        return ret1.next;
+    }
+};
+```
+
+138
+
+```cpp
+/*
+// Definition for a Node.
+class Node {
+public:
+    int val;
+    Node* next;
+    Node* random;
+
+    Node(int _val) {
+        val = _val;
+        next = NULL;
+        random = NULL;
+    }
+};
+*/
+class Solution {
+public:
+    Node* copyRandomList(Node* head) {
+        if (!head) return head;
+        Node *p = head, *q;
+        while (p) {
+            Node *q = new Node(p->val);
+            q->next = p->next;
+            p->next = q;
+            p = p->next->next;
+        }
+        p = head;
+        Node *tmp = head->next;
+        while (p) {
+            q = p->next;
+            if (!p->random) q->random = nullptr;
+            else q->random = p->random->next;
+            p = q->next;
+        }
+        p = head;
+        while (p) {
+            q = p->next;
+            p->next = p->next->next;
+            if (q->next) {
+                q->next = q->next->next;
+            }
+            p = p->next;
+        }
+        return tmp;
     }
 };
 ```
