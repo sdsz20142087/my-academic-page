@@ -16,7 +16,7 @@ content:
     exclude_featured: false
     exclude_future: false
     exclude_past: false
-  count: 20
+  count: 8
   offset: 0
   order: desc
 design:
