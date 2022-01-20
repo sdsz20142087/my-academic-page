@@ -2,7 +2,7 @@
 widget: pages
 widget_id: b
 headless: true
-weight: 120
+weight: 60
 title: Posts
 subtitle: null
 active: true
