@@ -1,5 +1,5 @@
 ---
-title: Data Structures and Algorithms 2-1. Heap (1/2)
+title: Data Structures and Algorithms 2-2. Heap (1/2)
 date: 2022-02-02T03:15:01.344Z
 draft: false
 featured: false
