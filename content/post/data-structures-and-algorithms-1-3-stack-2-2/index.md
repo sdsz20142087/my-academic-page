@@ -1,6 +1,8 @@
 ---
 title: Data Structures and Algorithms 1-3. Stack (2/2)
 date: 2022-01-24T08:10:23.636Z
+summary: "***Leetcode- 03.04, 682, 844, 946, 20, 1021, 1249, 145, 331, 227, 636,
+  1124***"
 draft: false
 featured: false
 image:
