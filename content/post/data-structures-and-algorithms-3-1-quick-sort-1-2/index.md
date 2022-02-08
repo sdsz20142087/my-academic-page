@@ -1,6 +1,7 @@
 ---
 title: Data Structures and Algorithms 3-1. Quick-Sort (1/2)
 date: 2022-02-08T03:34:33.706Z
+summary: "***Quick-Sort + InsertSort -- Threshold + getmid***"
 draft: false
 featured: false
 image:
