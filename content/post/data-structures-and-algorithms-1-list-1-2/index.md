@@ -1,6 +1,11 @@
 ---
 title: Data Structures and Algorithms 1-1. List (1/2)
 date: 2022-01-12T10:44:40.515Z
+summary: |-
+  
+
+  1. ***Linked list consists of two parts: Data field and Pointer field.***
+  2. ***time complexity: search O(n), insert O(1), delete O(1).***
 draft: false
 featured: false
 image:
