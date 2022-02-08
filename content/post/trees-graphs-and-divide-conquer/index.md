@@ -2,6 +2,13 @@
 title: Trees, Graphs and Divide Conquer
 subtitle: Read in 20 minutes
 date: 2021-04-27T06:24:12.885Z
+summary: >-
+  ***Two questions***
+
+
+  1. ***How to find the shortest paths when we want to find the target thing, based on item correspondence？***
+
+  2. ***Give you two glasses of water without scale, and only know the capacity, we also have infinite water to use, please give us a solution that can get our target water in the glass, for example, we hope to get 20 water after some operation, and the capacity of the two glasses of water are 90 and 40, please print the process of our operation.***
 draft: false
 featured: false
 image:
