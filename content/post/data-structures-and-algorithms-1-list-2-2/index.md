@@ -1,6 +1,14 @@
 ---
 title: Data Structures and Algorithms 1-1. List (2/2)
 date: 2022-01-14T09:46:53.998Z
+summary: |-
+  ***Leetcode- 141, 142, 202, 206, 92, 25, 61, 19, 83, 82, 86, 138***
+
+  **Problem solving tips**
+
+  **1. Determine the circle in a list: Fast & Slow pointer.**
+
+  **2. Head address may change: Create a virtual head node.**
 draft: false
 featured: false
 image:
