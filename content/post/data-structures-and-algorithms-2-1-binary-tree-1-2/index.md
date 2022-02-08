@@ -1,6 +1,12 @@
 ---
 title: Data Structures and Algorithms 2-1. Binary Tree (1/2)
 date: 2022-01-28T16:19:01.907Z
+summary: |-
+  
+
+  1. ***List is a special tree.***
+  2. ***The number of nodes is one more than the number of edges.***
+  3. ***Nodes with degree 0 have one more node than those with degree 2.***
 draft: false
 featured: false
 image:
