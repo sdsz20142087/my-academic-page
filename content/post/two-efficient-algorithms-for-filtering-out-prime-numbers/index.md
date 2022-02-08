@@ -1,6 +1,9 @@
 ---
 title: Two efficient algorithms for filtering out prime numbers
 date: 2022-01-01T13:26:49.312Z
+summary: "***First of all, a prime number has the property that it is only
+  divisible by 1 and itself. Our goal is to filter out the prime numbers in the
+  given range, for example, if the range is 1-10, the answer is 2,  3, 5, 7.***"
 draft: false
 featured: false
 image:
