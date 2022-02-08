@@ -1,6 +1,11 @@
 ---
 title: Data Structures and Algorithms 1-2. Task-Queue (1/2)
 date: 2022-01-20T15:00:05.240Z
+summary: |-
+  
+
+  * ***CPU Hyper-Threading Technology***
+  * ***Task queues for thread pools***
 draft: false
 featured: false
 image:
