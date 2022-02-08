@@ -1,6 +1,7 @@
 ---
 title: Data Structures and Algorithms 1-2. Task-Queue (2/2)
 date: 2022-01-20T15:10:17.125Z
+summary: "***Leetcode- 622, 641, 1670, 933, 17.09, 859, 969, 621***"
 draft: false
 featured: false
 image:
