@@ -1,6 +1,8 @@
 ---
 title: Data Structures and Algorithms 2-2. Heap (2/2)
 date: 2022-02-02T03:23:04.531Z
+summary: "***Leetcode- offer - 40, 1046, 703, 215, 373, 692, 295, 264, 313,
+  1753, 1801***"
 draft: false
 featured: false
 image:
