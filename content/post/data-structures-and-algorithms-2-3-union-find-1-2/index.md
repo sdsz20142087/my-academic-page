@@ -1,6 +1,7 @@
 ---
 title: Data Structures and Algorithms 2-3. Union-find (1/2)
 date: 2022-02-03T15:09:37.232Z
+summary: "***Weighted_Quick-Union with Path Compression***"
 draft: false
 featured: false
 image:
