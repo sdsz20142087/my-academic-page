@@ -8,6 +8,8 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+# Quick-Sort
+
 ## 1. Implementation
 
 ### version 1 (basic, Recursion)
