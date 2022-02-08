@@ -1,6 +1,7 @@
 ---
 title: Data Structures and Algorithms 1-3. Stack (1/2)
 date: 2022-01-24T08:02:55.368Z
+summary: "***The stack can handle problems with full inclusion relation.***"
 draft: false
 featured: false
 image:
