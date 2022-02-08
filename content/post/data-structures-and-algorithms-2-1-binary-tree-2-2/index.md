@@ -1,6 +1,8 @@
 ---
 title: Data Structures and Algorithms 2-1. Binary Tree (2/2)
 date: 2022-01-28T16:22:54.027Z
+summary: "***Leetcode- 144, 589, 226, offer - 32, 110, 112, 105, 222, offer -
+  54, offer - 26, 662, 968***"
 draft: false
 featured: false
 image:
