@@ -1,6 +1,7 @@
 ---
 title: Data Structures and Algorithms 2-3. Union-find (2/2)
 date: 2022-02-03T15:15:20.570Z
+summary: "***Leetcode- 547, 200, 990, 684, 1319, 128, 947, 1202***"
 draft: false
 featured: false
 image:
