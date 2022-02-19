@@ -1,10 +1,7 @@
 ---
 title: High-concurrency server (Basic - C10k)
 date: 2022-02-19T05:16:03.029Z
-summary: |-
-  ***Epoll_server***
-
-  ***Client***
+summary: "***Epoll_server <----->Client***"
 draft: false
 featured: false
 image:
