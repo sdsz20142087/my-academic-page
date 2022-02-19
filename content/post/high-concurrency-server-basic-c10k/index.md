@@ -185,7 +185,7 @@ int main() {
 }
 ```
 
-## 2. client
+## 2. Client
 
 ```c
 #include <stdio.h>
