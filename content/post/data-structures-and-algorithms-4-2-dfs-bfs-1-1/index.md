@@ -1,5 +1,5 @@
 ---
-title: Data Structures and Algorithms 4-2. DFS-BFS (1/1)
+title: Data Structures and Algorithms 4-3. DFS-BFS (1/1)
 date: 2022-03-02T03:42:30.484Z
 summary: "***Leetcode- 993, 542, 1091, 752, offer - 13, 130, 494, 473, 39***"
 draft: false
