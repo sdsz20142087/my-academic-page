@@ -1,7 +1,10 @@
 ---
 title: Using macros to display important information.
 date: 2022-03-13T05:36:38.117Z
-summary: ""
+summary: |-
+  "color.h"
+
+  "debug.h"
 draft: false
 featured: false
 image:
