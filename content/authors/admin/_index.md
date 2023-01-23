@@ -1,13 +1,13 @@
 ---
 title: Yingzhe Dong
-role: Undergraduate Student of Fintech
+role: Graduate Student of Computer Science
 avatar_filename: avatar.jpg
-bio: My research interests include Natural language processing, High-performance
-  computing and Artificial intelligence.
+bio: I am a full-stack developer with interests in software development, system
+  architecture, and distributed system.
 interests:
-  - Natural language processing
-  - High-performance computing
-  - Artificial intelligence
+  - Full stack development
+  - System architecture
+  - Distributed system
 social:
   - icon: envelope
     icon_pack: fas
@@ -39,10 +39,15 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am an undergraduate student of Fintech at Northeastern University. My research focuses on Natural language processing, High-performance computing and Artificial intelligence. 
+I am an graduate student of Computer Science at Boston University and a full-stack developer with interests in software development, system architecture, and distributed system.
 
-I published my academic paper BELT: A Pipeline for Stock Price Prediction Using News (IEEE Big Data 2020, first author, regular paper) in my junior year.
-In my senior year, I interned at KuaiShou Technology Co. as a data analyst and TianXueWang Co. as a natural language processing algorithm engineer.
+In October 2020, I published my academic paper BELT: A Pipeline for Stock Price Prediction Using News (IEEE Big Data 2020, first author, regular paper).
+
+In November 2020, I interned at KuaiShou Technology Co. as a data analyst.
+
+In April of 2022, I worked as a software development engineer intern at OPPO.
+
+Now, I am an incoming software development engineer intern at Yahoo.
 
 My motto: Death is more universal than life; everyone dies but not everyone lives.
 Three as most important in being a successful student: (1) self-motivation, (2) perseverance, and (3) focus.
