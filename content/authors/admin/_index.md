@@ -28,10 +28,15 @@ social:
     icon_pack: ai
     link: uploads/Resume--Yingzhe.pdf
 organizations:
+  - name: Boston University
+    url: https://www.bu.edu/
   - name: Northeastern University
     url: http://www.neu.edu.cn/
 education:
   courses:
+    - course: MSc in Computer Science
+      institution: Boston University
+      year: 2024
     - course: BSc in Fintech
       institution: Northeastern University(China)
       year: 2021
