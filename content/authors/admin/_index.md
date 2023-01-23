@@ -53,6 +53,8 @@ In April of 2022, I worked as a software development engineer intern at OPPO.
 Now, I am an incoming software development engineer intern at Yahoo.
 
 My motto: Death is more universal than life; everyone dies but not everyone lives.
+
+
 Three as most important in being a successful student: (1) self-motivation, (2) perseverance, and (3) focus.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
