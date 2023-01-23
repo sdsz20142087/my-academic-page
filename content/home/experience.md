@@ -2,23 +2,24 @@
 widget: experience
 date_format: Jan 2006
 experience:
-  - title: NLP Algorithm Engineer
-    company: Tian Xue Wang
-    company_url: ""
+  - title: Software Engineer
+    company: OPPO
+    company_url: "https://www.oppo.com/en/"
     company_logo: org-q
     location: Beijing
-    date_start: 2021-03-25
-    date_end: 2021-05-25
+    date_start: 2022-04-20
+    date_end: 2022-07-29
     description: >-2
         Responsibilities include:
         
-        * Implemented and upgraded the algorithms to an automatic scoring system for spoken English, which is integrated into the app, covering both PC and mobile.
-        * Scored Q&A questions using a machine learning model solution to construct text similarity features between the student's recognition text and multiple reference answers, and then put them into the LGB model together with speech features to conduct regression, boosting accuracy from 75% to 85%.
-        * Implemented features and models based on over 30,000 data according to region using Python, and deployed them into the Polly engine using C++.
-        * Built a back-end service with Python and Flask for the mock exam, serving over 200,000 users.
+        * Created a face detection software module and integrated it into CV SDK using C++, which was used 800+ times.
+        * Applied MNN and SNPE engines to deploy models on CPU and DSP chips on the ARM architecture.
+        * Tested the performance of CV models on the mobile side by leveraging Android Debug Bridge (ADB).
+        * Developed tools with custom model quantization and operator introduction functions by C++ and Flatbuffers.
+        * Built a functional software module that can fuse multiple TFLite Graphs, reducing 60% message transfer time.
   - title: Data Analyst
     company: Kuaishou
-    company_url: ""
+    company_url: "https://www.kuaishou.com/"
     company_logo: org-a
     location: Beijing
     date_start: 2020-11-05
@@ -26,11 +27,10 @@ experience:
     description: >-2
         Responsibilities include:
         
-        * Set up the department data center from 0 to 1, drove and led data reform and innovation to better meet the internal data needs of the department while applying analytical capabilities to guide the business.
-        * Undertook the initial work of data development and met the data requirements of the department: utilized SQL to retrieve data from Hive and completed over 1,500 SQL queries, wrote the SQL template, and created the corresponding visual Kanban to support the unified and efficient data queries and statistics, and standardized data caliber.
-        * Provided the strategies support for recommending high-quality works to the operation side, and developed an appropriate public release strategy based on the characteristics of the published works of different secondary vertical classes.
-        * Calculated resource allocation for different queues and periods around the internal resource pool of the department, optimized the code and configured a fitted engine.
-        * Conducted the quantitative analysis (Gini-Simpson index and Shannon-Wiener index) for the ecological diversity of the primary vertical classes to prevent the recommendation system from being good at working out an optimal local solution that resulted in the ‘Matthew effect’ of distribution.
+        * Set up a department data center from 0 to 1; drove and led the data reform and innovation.
+        * Utilized SQL to retrieve data from Hive table and completed over 1,500 SQL queries.
+        * Devised a visual data dashboard and a departmental data warehouse, decreasing data-querying time by 70%.
+        * Upgraded analytics tools by adding sensitive video title capture function using Python, serving over 2,000 users.
 widget_id: a
 headless: true
 weight: 40
