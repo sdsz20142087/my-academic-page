@@ -57,4 +57,4 @@ My motto: Death is more universal than life; everyone dies but not everyone live
 
 Three as most important in being a successful student: (1) self-motivation, (2) perseverance, and (3) focus.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Resume-Yingzhe-Dong.pdf" "newtab" >}}resume{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Resume-Yingzhe-Dong.pdf" "newtab" >}}resumé{{< /staticref >}}.
