@@ -5,7 +5,7 @@ experience:
   - title: Software Engineer
     company: OPPO
     company_url: "https://www.oppo.com/en/"
-    company_logo: org-q
+    company_logo: org-o
     location: Beijing, China
     date_start: 2022-04-20
     date_end: 2022-07-29
