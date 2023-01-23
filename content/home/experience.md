@@ -6,7 +6,7 @@ experience:
     company: OPPO
     company_url: "https://www.oppo.com/en/"
     company_logo: org-q
-    location: Beijing
+    location: Beijing, China
     date_start: 2022-04-20
     date_end: 2022-07-29
     description: >-2
@@ -21,7 +21,7 @@ experience:
     company: Kuaishou
     company_url: "https://www.kuaishou.com/"
     company_logo: org-a
-    location: Beijing
+    location: Beijing, China
     date_start: 2020-11-05
     date_end: 2021-02-05
     description: >-2
