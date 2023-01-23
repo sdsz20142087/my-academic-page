@@ -30,8 +30,6 @@ social:
 organizations:
   - name: Boston University
     url: https://www.bu.edu/
-  - name: Northeastern University
-    url: http://www.neu.edu.cn/
 education:
   courses:
     - course: MSc in Computer Science
