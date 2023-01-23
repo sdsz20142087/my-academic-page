@@ -26,7 +26,7 @@ social:
     link: https://www.linkedin.com/in/yingzhe-dong-9347b51b7/
   - icon: cv
     icon_pack: ai
-    link: uploads/Resume--Yingzhe.pdf
+    link: uploads/Resume-Yingzhe-Dong.pdf
 organizations:
   - name: Boston University
     url: https://www.bu.edu/
