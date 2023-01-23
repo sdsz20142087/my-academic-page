@@ -41,7 +41,7 @@ highlight_name: false
 ---
 I am a graduate student of Computer Science at Boston University and a full-stack developer with interests in software development, system architecture, and distributed system.
 
-In October 2020, I published my academic paper BELT: A Pipeline for Stock Price Prediction Using News (IEEE Big Data 2020, first author, regular paper).
+In October 2020, I published my academic paper BELT: A Pipeline for Stock Price Prediction Using News (IEEE Big Data 2020, first author).
 
 In November 2020, I interned at KuaiShou Technology Co. as a data analyst.
 
