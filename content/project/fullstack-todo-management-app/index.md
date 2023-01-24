@@ -15,7 +15,7 @@ links:
     icon_pack: fab
     url: https://github.com/sdsz20142087/FullStack-Todo-Management-App
 image:
-  filename: todom.jpeg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
