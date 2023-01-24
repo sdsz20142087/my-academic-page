@@ -19,12 +19,8 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Developed todo management interfaces via TypeScript and Angular with Bootstrap.
-
-Built back-end services using Java and Spring Boot, designed and managed RESTful API with Swagger.
-
-Implemented user authentication and authorization by Spring Security framework and JWT.
-
-Connected the API to H2 database with Spring Data JPA and Hibernate.
-
-Deployed the fullstack application on AWS by using AWS Elastic Beanstalk and S3.
+* Developed todo management interfaces via TypeScript and Angular with Bootstrap.
+* Built back-end services using Java and Spring Boot, designed and managed RESTful API with Swagger.
+* Implemented user authentication and authorization by Spring Security framework and JWT.
+* Connected the API to H2 database with Spring Data JPA and Hibernate.
+* Deployed the fullstack application on AWS by using AWS Elastic Beanstalk and S3.
