@@ -6,7 +6,9 @@ summary: "T﻿ech Stack: Java, TypeScript, Angular, Spring Boot, RESTful API,
   Spring Security, JWT, H2, AWS"
 draft: false
 featured: false
-external_link: https://github.com/sdsz20142087/FullStack-Todo-Management-App
+tags:
+  - Full-stack
+external_link: https://www.yingzhe-dong.com/project/fullstack-todo-management-app/
 links:
   - icon: github
     name: Star
