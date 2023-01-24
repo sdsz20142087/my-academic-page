@@ -8,14 +8,14 @@ draft: false
 featured: false
 tags:
   - Full-stack
-external_link: https://www.yingzhe-dong.com/project/fullstack-todo-management-app/
+external_link: https://github.com/sdsz20142087/FullStack-Todo-Management-App
 links:
   - icon: github
     name: Star
     icon_pack: fab
     url: https://github.com/sdsz20142087/FullStack-Todo-Management-App
 image:
-  filename: featured.jpg
+  filename: todom.jpeg
   focal_point: Smart
   preview_only: false
 ---
