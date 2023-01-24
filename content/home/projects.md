@@ -28,8 +28,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Full-stack
+    tag: Full-stack
   - name: Other
     tag: Demo
 
