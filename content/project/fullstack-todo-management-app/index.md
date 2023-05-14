@@ -1,9 +1,8 @@
 ---
 title: " FullStack Todo Management App"
-subtitle: Feb. 2022 – Mar. 2022
+subtitle: Feb. 2023 – May 2023
 date: 2023-01-23T22:15:01.831Z
-summary: "T﻿ech Stack: Java, TypeScript, Angular, Spring Boot, RESTful API,
-  Spring Security, JWT, H2, AWS"
+summary: "T﻿ech Stack: Java, gRPC, RocksDB, Etcd, Docker Compose, Prometheus, Grafana"
 draft: false
 featured: false
 tags:
@@ -19,8 +18,10 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-* Developed todo management interfaces via TypeScript and Angular with Bootstrap.
-* Built back-end services using Java and Spring Boot, designed and managed RESTful API with Swagger.
-* Implemented user authentication and authorization by Spring Security framework and JWT.
-* Connected the API to H2 database with Spring Data JPA and Hibernate.
-* Deployed the fullstack application on AWS by using AWS Elastic Beanstalk and S3.
+* Built a standalone control plane, separating tasks and states, optimizing the state migration mechanism in Flink.
+* Applied Java and gRPC to create a distributed event-driven framework, where TaskManager manages operators.
+* Utilized watermarks as the logical ingestion time to handle late-arriving events in window operators.
+* Implemented consistent hashing with virtual nodes to minimize state migration cost during operator scaling.
+* Used RocksDB to store state of TaskManager, employed etcd for storing routing table, ensuring fault-tolerance.
+* Construct a scalable deployment on AWS EC2 using Docker Compose, auto-scaling, and load balancing.
+* Evaluated latency during state migration with Prometheus and Grafana, finding no downtime, just a 30% rise.
