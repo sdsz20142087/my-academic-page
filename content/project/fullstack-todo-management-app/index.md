@@ -13,6 +13,10 @@ links:
     name: Star
     icon_pack: fab
     url: https://github.com/sdsz20142087/A-Stream-Processing-System-with-State-Disaggregation
+  - icon_pack: fab
+    url: https://drive.google.com/file/d/1fG5Yl8mC4CsBSiW3WLtGBl965jnyThJr/view
+    name: Video
+    icon: video
 image:
   filename: stream_processing_system.png
   focal_point: Smart
