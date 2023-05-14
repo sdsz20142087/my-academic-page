@@ -16,7 +16,7 @@ links:
   - icon_pack: fab
     url: https://drive.google.com/file/d/1fG5Yl8mC4CsBSiW3WLtGBl965jnyThJr/view
     name: Video
-    icon: video
+    icon: youtube
 image:
   filename: stream_processing_system.png
   focal_point: Smart
