@@ -6,7 +6,7 @@ summary: "T﻿ech Stack: Java, gRPC, RocksDB, Etcd, Docker Compose, Prometheus, 
 draft: false
 featured: false
 tags:
-  - Full-stack
+  - Stream-processing-system
 external_link: https://www.yingzhe-dong.com/project/fullstack-todo-management-app/
 links:
   - icon: github
