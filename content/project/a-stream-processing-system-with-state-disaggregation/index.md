@@ -5,7 +5,7 @@ date: 2023-05-14T23:07:51.139Z
 summary: "T﻿ech Stack: Java, gRPC, RocksDB, Etcd, Docker Compose, Prometheus, Grafana"
 draft: false
 featured: true
-<!-- external_link: https://github.com/sdsz20142087/A-Stream-Processing-System-with-State-Disaggregation -->
+external_link: https://www.yingzhe-dong.com/project/a-stream-processing-system-with-state-disaggregation/
 links:
   - url: https://github.com/sdsz20142087/A-Stream-Processing-System-with-State-Disaggregation
     name: Star
