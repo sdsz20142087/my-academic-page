@@ -1,5 +1,5 @@
 ---
-title: " FullStack Todo Management App"
+title: A Stream Processing System with State Disaggregation
 subtitle: Feb. 2023 – May 2023
 date: 2023-01-23T22:15:01.831Z
 summary: "T﻿ech Stack: Java, gRPC, RocksDB, Etcd, Docker Compose, Prometheus, Grafana"
