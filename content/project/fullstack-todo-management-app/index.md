@@ -18,7 +18,7 @@ links:
     name: Video
     icon: youtube
 image:
-  filename: diagram-stream-processing.png
+  filename: diagram-stream-processing.jpg
   focal_point: Smart
   preview_only: false
 ---
