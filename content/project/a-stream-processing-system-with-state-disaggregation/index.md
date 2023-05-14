@@ -16,7 +16,7 @@ links:
     icon_pack: fab
     icon: youtube
 image:
-  filename: diagram-stream-processing.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
