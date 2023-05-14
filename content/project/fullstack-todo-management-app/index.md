@@ -12,9 +12,9 @@ links:
   - icon: github
     name: Star
     icon_pack: fab
-    url: https://github.com/sdsz20142087/FullStack-Todo-Management-App
+    url: https://github.com/sdsz20142087/A-Stream-Processing-System-with-State-Disaggregation
 image:
-  filename: todom.jpeg
+  filename: stream_processing_system.png
   focal_point: Smart
   preview_only: false
 ---
