@@ -28,6 +28,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  - name: Stream-Processing
+    tag: Stream-Processing
   - name: Full-stack
     tag: Full-stack
   - name: Other
