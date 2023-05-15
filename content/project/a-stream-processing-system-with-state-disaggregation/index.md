@@ -20,7 +20,11 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+### A﻿rchitecture
 
+![](stream_processing_system.png)
+
+### D﻿escription
 
 * Built a standalone control plane, separating tasks and states, optimizing the state migration mechanism in Flink.
 * Applied Java and gRPC to create a distributed event-driven framework, where TaskManager manages operators.
