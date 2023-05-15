@@ -30,8 +30,8 @@ content:
     tag: '*'
   - name: Stream-Processing
     tag: Stream-Processing
-  - name: Full-stack
-    tag: Full-stack
+  - name: Mobile
+    tag: Mobile
   - name: Other
     tag: Demo
 
