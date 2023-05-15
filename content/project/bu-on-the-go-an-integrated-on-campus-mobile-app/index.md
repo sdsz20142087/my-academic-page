@@ -14,7 +14,7 @@ draft: false
 featured: true
 tags:
   - Mobile
-external_link: https://github.com/sdsz20142087/bu-on-the-go-andriod-app
+external_link: ""
 links:
   - url: https://github.com/sdsz20142087/bu-on-the-go-andriod-app
     name: Github
