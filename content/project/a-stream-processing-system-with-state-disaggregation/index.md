@@ -2,6 +2,8 @@
 title: A Stream Processing System with State Disaggregation
 subtitle: Feb. 2023 – May 2023
 date: 2023-05-14T23:07:51.139Z
+tags:
+- Stream-Processing
 summary: >-
   We've created a cutting-edge prototype for a disaggregated data stream
   processing system using a standalone control plane, allowing task-state
