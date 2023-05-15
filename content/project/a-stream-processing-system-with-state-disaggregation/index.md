@@ -2,8 +2,6 @@
 title: A Stream Processing System with State Disaggregation
 subtitle: Feb. 2023 – May 2023
 date: 2023-05-14T23:07:51.139Z
-tags:
-- Stream-Processing
 summary: >-
   We've created a cutting-edge prototype for a disaggregated data stream
   processing system using a standalone control plane, allowing task-state
@@ -15,10 +13,12 @@ summary: >-
   ***T﻿ech Stack: Java, gRPC, RocksDB, Etcd, Docker Compose, Prometheus, Grafana***
 draft: false
 featured: true
-external_link: ""
+tags:
+  - Stream-Processing
+external_link: '""'
 links:
   - url: https://github.com/sdsz20142087/A-Stream-Processing-System-with-State-Disaggregation
-    name: Star
+    name: Github
     icon_pack: fab
     icon: github
   - url: https://drive.google.com/file/d/1fG5Yl8mC4CsBSiW3WLtGBl965jnyThJr/view
