@@ -15,7 +15,7 @@ draft: false
 featured: true
 tags:
   - Stream-Processing
-external_link: '""'
+external_link: ""
 links:
   - url: https://github.com/sdsz20142087/A-Stream-Processing-System-with-State-Disaggregation
     name: Github
