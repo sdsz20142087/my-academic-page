@@ -2,7 +2,11 @@
 title: A Stream Processing System with State Disaggregation
 subtitle: Feb. 2023 – May 2023
 date: 2023-05-14T23:07:51.139Z
-summary: "T﻿ech Stack: Java, gRPC, RocksDB, Etcd, Docker Compose, Prometheus, Grafana"
+summary: >-
+  T﻿ech Stack: Java, gRPC, RocksDB, Etcd, Docker Compose, Prometheus, Grafana
+
+
+  A﻿bout: We've created a cutting-edge prototype for a disaggregated data stream processing system using a standalone control plane, allowing task-state separation. The control plane serves as a routing table for state access, enabling seamless job reconfiguration without causing any downtime or disruption.
 draft: false
 featured: true
 external_link: https://www.yingzhe-dong.com/project/a-stream-processing-system-with-state-disaggregation/
@@ -23,6 +27,10 @@ image:
 ### A﻿rchitecture
 
 ![](stream_processing_system.png)
+
+### S﻿tate Disaggregation
+
+![](state_disaggregation.png)
 
 ### D﻿escription
 
