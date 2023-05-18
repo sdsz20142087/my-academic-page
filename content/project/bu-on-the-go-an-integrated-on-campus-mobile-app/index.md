@@ -14,7 +14,7 @@ draft: false
 featured: true
 tags:
   - Mobile
-external_link: ""
+external_link: " "
 links:
   - url: https://github.com/sdsz20142087/bu-on-the-go-andriod-app
     name: Github
@@ -25,6 +25,10 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+### High-level Architecture
+
+![](high_level_arc.png)
+
 ### Desc﻿ription
 
 • Developed interactive client-side features for Android by leveraging Kotlin and Jetpack Compose.\
