@@ -14,14 +14,14 @@ draft: false
 featured: true
 tags:
   - Mobile
-external_link: ""
+external_link: " "
 links:
   - url: https://github.com/sdsz20142087/bu-on-the-go-andriod-app
     name: Github
     icon_pack: fab
     icon: github
 image:
-  filename: featured.png
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
