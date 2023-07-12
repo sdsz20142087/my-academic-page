@@ -5,7 +5,7 @@ experience:
   - title: Software Engineer
     company: Yahoo
     company_url: "https://www.yahooinc.com/"
-    company_logo: org-o
+    company_logo: org-b
     location: California, United States
     date_start: 2023-05-22
     date_end: 2023-08-11
