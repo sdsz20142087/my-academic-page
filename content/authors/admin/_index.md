@@ -48,7 +48,7 @@ In October 2020, I published my academic paper BELT: A Pipeline for Stock Price 
 
 In November 2020, I interned at KuaiShou Technology Co. as a data analyst.
 
-In April of 2022, I worked as a software development engineer intern at OPPO.
+In April 2022, I worked as a software development engineer intern at OPPO.
 
 Now, I am a software development engineer intern at Yahoo.
 
