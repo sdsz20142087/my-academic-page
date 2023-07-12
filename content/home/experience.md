@@ -3,6 +3,22 @@ widget: experience
 date_format: Jan 2006
 experience:
   - title: Software Engineer
+    company: Yahoo
+    company_url: "https://www.yahooinc.com/"
+    company_logo: org-o
+    location: California, United States
+    date_start: 2023-05-22
+    date_end: 2023-08-11
+    description: >-2
+        Responsibilities include:
+        
+        * Worked on the Anti-Abuse team for HTTP traffic protection against malicious users using C++ and Lua.
+        * Migrated our product to cloud by Kubernetes on AWS Elastic Kubernetes Service, reducing 20% latency.
+        * Applied Java, Python, and wrk2 to add multi-AZ performance and failover test suites to SafeT-AWS test bed.
+        * Refactored a distributed hash table component for multi-AZ AWS deployment, cutting costs over 50%.
+        * Utilized Screwdriver to build CI/CD pipelines, enhancing web application firewall and rate limiter efficiencies.
+
+  - title: Software Engineer
     company: OPPO
     company_url: "https://www.oppo.com/en/"
     company_logo: org-o
