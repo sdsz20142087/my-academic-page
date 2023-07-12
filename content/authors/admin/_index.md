@@ -50,7 +50,7 @@ In November 2020, I interned at KuaiShou Technology Co. as a data analyst.
 
 In April of 2022, I worked as a software development engineer intern at OPPO.
 
-Now, I am an incoming software development engineer intern at Yahoo.
+Now, I am a software development engineer intern at Yahoo.
 
 My motto: Death is more universal than life; everyone dies but not everyone lives.
 
